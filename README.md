@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Kalkar</h1>
 <h3 align="center">A Data Analyst/ Web Developer from Nagpur.</h3>
 
-<img align="right" alt="coding" width="100" src="https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&tbnid=ITaGGdoGDaxxhM&vet=12ahUKEwiEnOeF8J_-AhUSD7cAHUHGDuUQMygAegUIARCLAg..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&docid=DjMcDTxMfmhRGM&w=480&h=360&q=coding%20gif&hl=en&ved=2ahUKEwiEnOeF8J_-AhUSD7cAHUHGDuUQMygAegUIARCLAg"/>
+<img align="right" alt="coding" width="100" src="https://github.com/vedantkalkar19/vedantkalkar19/blob/main/gittt.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantkalakr19&label=Profile%20views&color=0e75b6&style=flat" alt="vedantkalakr19" /> </p>
 
