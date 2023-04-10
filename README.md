@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Kalkar</h1>
 <h3 align="center">A Data Analyst/ Web Developer from Nagpur.</h3>
 
-<img align="centre" alt="coding" width="400" src="https://github.com/vedantkalkar19/vedantkalkar19/blob/main/gittt.gif"/>
+<img align="right" alt="coding" width="400" src="https://github.com/vedantkalkar19/vedantkalkar19/blob/main/gittt.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantkalakr19&label=Profile%20views&color=0e75b6&style=flat" alt="vedantkalakr19" /> </p>
 
