@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantkalkar19&theme=tokyonight&show_icons=true" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantkalkar19&theme=tokyonight" alt="vedantkalkar19" /></p>
+
+![Snake animation](https://github.com/vedantkalkar19/vedantkalkar19/blob/output/github-contribution-grid-snake.svg)
+
