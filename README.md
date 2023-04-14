@@ -29,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantkalkar19&theme=tokyonight&show_icons=true" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantkalkar19&theme=tokyonight" alt="vedantkalkar19" /></p>
+
+<p align="center"> 
+   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vedantkalkar19&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/> 
+ </p>
