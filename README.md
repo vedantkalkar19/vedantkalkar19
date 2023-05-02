@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantkalkar19&theme=tokyonight" alt="vedantkalkar19" /></p>
 
-<p align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vedantkalkar19&area_color=5bcdec&point=ff897a&color=5bcdec&line=4bcdec&bg_color=0d1108&hide_border=true" width="100%"/></p>
+<p align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vedantkalkar19&area_color=4bcdec&point=ff897a&color=5bcdec&line=4bcdec&bg_color=0d1108&hide_border=true" width="100%"/></p>
