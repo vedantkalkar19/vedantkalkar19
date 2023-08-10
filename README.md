@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Kalkar</h1>
 <h3 align="center">A Data Analyst/ Web Developer from Nagpur.</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Unga+Bunga+i+am+busy;Code+and+Coffee+=+NEW+Life)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Unga+Bunga+i+am+busy;Code+and+Coffee+=+NEW+Life;I+hate+taylor+swift)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="400" src="https://github.com/vedantkalkar19/vedantkalkar19/blob/main/gittt.gif"/>
 
