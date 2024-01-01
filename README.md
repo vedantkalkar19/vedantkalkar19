@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Kalkar</h1>
-<h3 align="center">A Data Analyst/ Web Developer from Nagpur.</h3>
+<h3 align="center">A Data and Financial Analyst from Nagpur.</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Unga+Bunga+i+am+busy;Code+and+Coffee+=+NEW+Life;I+hate+taylor+swift)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Finance+is+the+future;Aspiring+Venture+Capitalist+and+Financial+Advisor)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="400" src="https://github.com/vedantkalkar19/vedantkalkar19/blob/main/gittt.gif"/>
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/vedantttt0" target="blank"><img src="https://img.shields.io/twitter/follow/vedantttt0?logo=twitter&style=for-the-badge" alt="vedantttt0" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning, Networking**
+- 🌱 I’m currently learning **Quant Analysis**
 
 - How to contact me --- **vnkalkar@gmail.com**
 
